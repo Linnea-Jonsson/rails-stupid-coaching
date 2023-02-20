@@ -1,3 +1,30 @@
+body{
+  padding: 20px;
+}
+
+.card{
+  margin: 20px;
+}
+
+.question-card{
+  padding: 20px;
+  border-left: 8px solid #DDDDDD;
+}
+
+.response-card{
+  background-color: #FFFFE1;
+  padding: 20px;
+  border-left: 8px solid #DDDDDD;
+}
+
+.italicised{
+  font-style: italic;
+}
+
+.bold{
+  font-weight: bold;
+}
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
